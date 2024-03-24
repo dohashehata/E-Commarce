@@ -79,7 +79,7 @@ export function CartContexttProvider({children}) {
         let body = {
             shippingAddress: data
         }
-        return axios.post(`https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${id}?url=http://localhost:3000`, body, options)
+        return axios.post(`https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${id}?url=${window.location.origin}`, body, options)
     }
 
 

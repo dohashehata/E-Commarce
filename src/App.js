@@ -1,6 +1,6 @@
 
 import { Component, useContext, useEffect, useState } from "react";
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import { RouterProvider, createBrowserRouter,createHashRouter } from "react-router-dom";
 import Layout from "./Component/Layout/Layout";
 import Home from "./Component/Home/Home";
 import Products from "./Component/Products/Products";
@@ -31,7 +31,7 @@ import axios from 'axios'
 
 
 
-let Route = createBrowserRouter([
+let Route = createHashRouter([
   { path : "", element:<Layout/>, 
   children:[
     {path: "home", element:<ProtectRouting><Home/></ProtectRouting> },
