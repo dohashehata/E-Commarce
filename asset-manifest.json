@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-Commarce/static/css/main.c16e1f9a.css",
-    "main.js": "/E-Commarce/static/js/main.211c2a50.js",
+    "main.js": "/E-Commarce/static/js/main.81c85f08.js",
     "static/js/787.3b817987.chunk.js": "/E-Commarce/static/js/787.3b817987.chunk.js",
     "static/media/fa-solid-900.ttf": "/E-Commarce/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/E-Commarce/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
@@ -17,11 +17,11 @@
     "static/media/fa-v4compatibility.woff2": "/E-Commarce/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/E-Commarce/index.html",
     "main.c16e1f9a.css.map": "/E-Commarce/static/css/main.c16e1f9a.css.map",
-    "main.211c2a50.js.map": "/E-Commarce/static/js/main.211c2a50.js.map",
+    "main.81c85f08.js.map": "/E-Commarce/static/js/main.81c85f08.js.map",
     "787.3b817987.chunk.js.map": "/E-Commarce/static/js/787.3b817987.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c16e1f9a.css",
-    "static/js/main.211c2a50.js"
+    "static/js/main.81c85f08.js"
   ]
 }
